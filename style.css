@@ -1,0 +1,15 @@
+div.mycontainer{
+    width: 100%;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+    flex: content;
+}
+.form{
+    margin: 5%;
+    border: solid 2px black;
+    padding: 10px;
+    font-size: 15px;
+
+}
+
